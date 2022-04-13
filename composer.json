@@ -1,0 +1,21 @@
+{
+    "name": "budi-pratama/budi-pratama",
+    "description": "User Ip",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","userip"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Budi Pratama",
+            "email": "boedipratama19@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "userip\\": ""
+        }
+    }
+}
